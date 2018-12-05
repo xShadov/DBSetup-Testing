@@ -1,4 +1,4 @@
-package com.shadov.test.database.entity;
+package com.shadov.test.dbsetup.entity;
 
 import lombok.ToString;
 
